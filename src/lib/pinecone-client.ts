@@ -11,13 +11,13 @@
 // // async function createIndex(indexName: string) {
 // //   try {
 // //     await pc.createIndex({
-// //       name: indexName,
-// //       dimension: 2,
-// //       metric: 'cosine',
+// //       name: ,
+// //       dimension: ,
+// //       metric: '',
 // //       spec: { 
 // //         serverless: { 
-// //           cloud: 'aws', 
-// //           region: 'us-east-1' 
+// //           cloud: '', 
+// //           region: '' 
 // //         }
 // //       } 
 // //     });
@@ -79,9 +79,9 @@ let pineconeClientInstance: Pinecone | null = null;
 //   try {
 //     await client.createIndex({
 //       createRequest: {
-//         name: indexName,
-//         dimension: 1536,
-//         metric: "cosine",
+//         name: ,
+//         dimension: ,
+//         metric: "",
 //       },
 //     });
 //     console.log(
