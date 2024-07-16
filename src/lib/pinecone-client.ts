@@ -5,7 +5,7 @@
 // import { delay } from "./utils";
 
 // let pineconeClientInstance: Pinecone | null = null;
-// const pc = new Pinecone({ apiKey: 'sk-proj-fakHRoGGpWUMXEGsvnAgT3BlbkFJStwvINv1JDMtkmxtB5bD' });
+// const pc = new Pinecone({ apiKey: '' });
 
 // // Create pineconeIndex if it doesn't exist
 // // async function createIndex(indexName: string) {
